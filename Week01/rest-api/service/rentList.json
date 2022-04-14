@@ -1,0 +1,19 @@
+{
+  "rents": [
+    {
+      "movieId": 10002,
+      "duration": 10,
+      "person": "Kemal"
+    },
+    {
+      "movieId": 10003,
+      "duration": 20,
+      "person": "Ali"
+    },
+    {
+      "movieId": 10002,
+      "person": "Dursun",
+      "duration": "50"
+    }
+  ]
+}
